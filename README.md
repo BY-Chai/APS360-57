@@ -6,8 +6,8 @@ We apply a Physics-Informed Neural Network (PINN)-based method to extend and inc
 
 ## File Structure
 Data: Training data, scripts for generating and processing ANSYS data\
-Source: Scripts for models, train, test\
+Source: Scripts for models, training, testing\
 Figures: GIF animations of predicitons\
 Plotting: Code for generating GIF animations from Data or Predictions files\
 Predictions: Output folder for flow field predictions by models\
-Trained models: Saved .pt models\
+Trained models: Saved .pt models
